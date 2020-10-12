@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=com.google.gwt.sample.stockwatcher.StockWatcher
+gwtMavenModuleShortName=StockWatcher
+jarsExcludedFromWebInfLib=
+lastWarOutDir=C\:/Users/M4600/eclipse-workspace/StockWatcher/target/StockWatcher-1.0-SNAPSHOT
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=false
